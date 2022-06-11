@@ -5,8 +5,8 @@ A cryptarithm is a mathematical puzzle for which the goal is to find the corresp
 
 Output #1
 
-![](Screenshots/output1.png)
+![Output1](/Screenshots/output1.png")
 
 Output #2
 
-![](Screenshots/output2.png)
+![Output2](/Screenshots/output2.png")
